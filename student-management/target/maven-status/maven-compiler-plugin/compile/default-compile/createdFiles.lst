@@ -1,0 +1,8 @@
+com\viji\studentmanagement\exception\GlobalExceptionHandler.class
+com\viji\studentmanagement\config\CorsConfig.class
+com\viji\studentmanagement\StudentManagementApplication.class
+com\viji\studentmanagement\model\Student.class
+com\viji\studentmanagement\service\StudentService.class
+com\viji\studentmanagement\controller\HelloController.class
+com\viji\studentmanagement\response\ApiResponse.class
+com\viji\studentmanagement\repository\StudentRepository.class
